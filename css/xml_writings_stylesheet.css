@@ -1,0 +1,71 @@
+<Poetry>
+
+	<Category> Unrequited Love
+		<Title>on the awfulness of unrequited love
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				
+Poetry {
+width: 80%;
+	background-color: none;
+	margin: 10%
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 50px;
+
+}
+
+Category {
+
+	display: block;
+	color: #161B22;
+  font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  font-size: 80px;
+  font-weight: 100;
+  text-align: center;
+  padding: none;
+
+}
+
+Title {
+display: block;
+width: 75%;
+font-family: "typo_writer_light_demoregular";
+  color: #161B22;
+  font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  font-weight: 100;
+  text-align: left;
+  font-size: 30px;
+   margin-left: 10%;
+   margin-top: 3%;
+  
+
+}
+
+Author {
+display: block;
+width: 70%;
+color: #161B22;
+  font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+  text-align: left;
+  font-size: 18px;
+  opacity: 0.5;
+   margin-left: 10%;
+
+}
+
+Writing {
+display: block;
+width: 75%;
+  font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+font-size: 18px;
+  padding: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    line-height: 2;
+
+}
