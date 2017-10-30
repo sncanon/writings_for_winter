@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/xml_writings_stylesheet.css"?>
+
+<!DOCTYPE DATA [
+<!ELEMENT note (FAQ,Number,Question,Answer)>
+<!ELEMENT FAQ (#PCDATA)>
+<!ELEMENT Number (#PCDATA)>
+<!ELEMENT Question (#PCDATA)>
+<!ELEMENT Answer (#PCDATA)>
+]>
+
+
+<DATA xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<!-- TEST LINK
+<Answer xmlns:xlink="http://www.w3.org/1999/xlink"><![CDATA[<a href='http://www.transientminds.org'>Click Here for a demo</a>]]></Answer>
+-->
+
+<FAQ>
+	<Number>1.
+	</Number>
+		<Question>Do you provide feedback/critique on work?
+		</Question>
+			<Answer>No, sorry!
+			</Answer>
+	</FAQ>
+
+<FAQ>
+	<Number>2.
+	</Number>
+		<Question>Can you give me relationship advice?
+		</Question>
+			<Answer>No, sorry!
+			</Answer>
+	</FAQ>
+
+<FAQ>
+		<Number>3.
+		</Number>
+			<Question>Can you tell me how to get published/where to look?
+			</Question>
+				<Answer>Read <a href="http://writingsforwinter.tumblr.com/post/107525637160/what-lit-mags-do-you-submit-to">this</a> and <a href="http://writingsforwinter.tumblr.com/post/107420897410/idk-if-you-saw-my-question-from-a-while-ago-so-im">this</a>
+				</Answer>
+
+
+		</FAQ>
+
+
+<FAQ>
+			<Number>4.
+			</Number>
+				<Question>Have you published any books?
+				</Question>
+					<Answer>Yes, three poetry collections. <em>Survival Songs, Healing Old Wounds With New Stitches</em>, and <em>The No You Never Listened To</em>.
+					</Answer>
+			</FAQ>
+
+
+<FAQ>
+			<Number>5.
+			</Number>
+					<Question>Where can I purchase your books?
+					</Question>
+						<Answer>
+							You can purchase <em>Survival Songs</em> <a href="http://www.lulu.com/shop/meggie-royer/survival-songs/paperback/product-22664663.html">here</a>, <em>Healing Old Wounds With New Stitches</em> <a href="http://www.lulu.com/shop/meggie-royer/healing-old-wounds-with-new-stitches/paperback/product-22590534.html">here</a>, and <em>The No You Never Listened To</em> <a href="https://www.amazon.com/No-You-Never-Listened/dp/0692463631">here</a>
+						</Answer>
+			</FAQ>
+
+
+<FAQ>
+			<Number>6.
+			</Number>
+					<Question>Can you give me writing advice about a specific problem?
+					</Question>
+							<Answer>Sure, but look through my Writing Tips page first!
+							</Answer>
+			</FAQ>
+
+
+<FAQ>
+			 <Number>7.
+			 </Number>
+					<Question>Do you have any poems about [insert subject here]?
+					</Question>
+							<Answer>Maybe-check my Poem Categories page!
+							</Answer>
+			</FAQ>
+
+
+<FAQ>
+				<Number>8.
+				</Number>
+						<Question>Can you help me with a school writing assignment?
+						</Question>
+								<Answer>No, sorry!
+								</Answer>
+			</FAQ>
+
+
+<FAQ>
+				<Number>9.
+				</Number>
+						<Question>How old are you?
+						</Question>
+								<Answer>23
+								</Answer>
+			</FAQ>
+
+
+<FAQ>
+				<Number>10.
+				</Number>
+						<Question>When did you start writing?
+						</Question>
+								<Answer>4 years ago
+								</Answer>
+			</FAQ>
+
+
+<FAQ>
+				<Number>11.
+				</Number>
+						<Question>Who are your favorite poets?
+						</Question>
+								<Answer>Richard Siken, Bob Hicok, Shinji Moon, Anna Meister, Sharon Olds, Marie Howe, Ocean Vuong, Clementine von Radics, Tara Mae Mulroy, J.P. Dancing Bear, Tomas Transtromer, etc.
+								</Answer>
+			</FAQ>
+
+<FAQ>
+					<Number>12.
+					</Number>
+							<Question>What are your favorite books?
+							</Question>
+									<Answer><a href="http://writingsforwinter.tumblr.com/post/56795334053/i-saw-in-an-ask-that-you-posted-some-of-your">Here’s a list!</a>
+									</Answer>
+				</FAQ>
+
+<FAQ>
+						<Number>
+						</Number>
+								<Question>
+								</Question>
+										<Answer>
+										</Answer>
+					</FAQ>
+
+<FAQ>
+							<Number>
+							</Number>
+									<Question>
+									</Question>
+											<Answer>
+											</Answer>
+					</FAQ>
+
+
+</DATA>

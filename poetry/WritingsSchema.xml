@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="../css/xml_writings_stylesheet.css"?>
+
 <!DOCTYPE Poetry [
 <!ELEMENT note (Category,Title,Author,Writing)>
 <!ELEMENT Category (#PCDATA)>
 <!ELEMENT Title (#PCDATA)>
 <!ELEMENT Author (#PCDATA)>
 <!ELEMENT Writing (#PCDATA)>
+
 ]>
 
 <Poetry>
@@ -15,10 +17,12 @@
 		</Title>
 			<Author>Meggie Royer
 			</Author>
-				<Writing>
-				Unrequited love is exhausting, almost physically draining, like teetering on the edge of recovery after being home sick for two weeks. But the problem with unrequited love is that there’s no cure, no chicken soup or bedrest to make you feel better again. The heart is a fickle organ, the most unpredictable in the body, and it wants what it wants for sometimes unknowable reasons.
+				<Writing xml:space="preserve">
+				Unrequited love is exhausting, almost physically draining, like teetering on the edge of recovery after being home sick for two weeks. But the problem with unrequited love is that there’s no cure, no chicken soup or bedrest to make you feel better again. The heart is a fickle organ, the most unpredictable in the body, and it wants what it wants for sometimes unknowable reasons. HELLO BREAK!!! &#xD; &#xD; &#xD; &#xD;
 
+<Writing>
 Imagine what it must have been like for Adam and Eve, the first man and woman, just trying out their hearts for the first time. No instruction manual, no step-by-step rules that laid out the foundation and the uses. And if Adam didn’t love Eve, or vice versa, there would be no one else to project that unused love onto, no placebo.
+</Writing>
 
 When you see the one you love with someone else, it’s all you can do not to rip your heart out and throw it on the floor and declare your love to the whole world, to smash every plate in the cupboard or paint the walls with their name. It’s gut-wrenching, like asking for the whole universe and only receiving the stars instead.
 
@@ -29,9 +33,9 @@ Sometimes you lie awake at night in bed and imagine all the things you could hav
 And sometimes you look at their picture over and over again in your school’s yearbook, flipping the pages but always returning to that one face, the smile you believe is meant for you, the hair parted just so, the smooth curve of their neck where it joins their collarbones.
 
 You’d write their name upon the stars if you could, but for now you’ll just have to settle for jotting it down in your tattered notebook instead.
-				
+
 				</Writing>
-	
+
 	<Category>Prose</Category>
 		<Title>the brokenness of broken people
 		</Title>
@@ -49,10 +53,10 @@ But here’s what you can do-you can help them. Go up to the stick-thin girl and
 And let me tell you something: sorrow and brokenness are two hard motherfuckers to beat. But there’s joy in putting on a pair of boxing gloves and stepping into the ring just to punch the feelings away. Catharsis. You will never feel better than at the exact moment you release all this. Letting go of your feelings has the same kind of grace as the opening of a door, or the way a phoenix can rise again out of the ashes. I’m not telling you that grace is an easy thing to accomplish. It takes small steps.
 
 But every step is worth it. Those broken people you see every day? Their brokenness is a ladder and they have to start climbing it. Rung by rung, hand over hand, until the very top. But don’t haul them up with a pulley; let them do it by themselves. And when they reach the top, hand them a nice cold glass of water and slap them on the back, say, Glad you could make it.
-				
+
 				</Writing>
 
-	
+
 	<Category>Breakups</Category>
 		<Title>for an ex-lover becoming someone else’s
 		</Title>
@@ -82,10 +86,10 @@ and I swore I wouldn’t press charges.
 Give it to her instead, for she probably needs it more.
 Soak it in lemon juice, so it won’t rot
 when she takes it in her arms, like I once did.
-				
+
 				</Writing>
-	
-	
+
+
 	<Category>My Favorites</Category>
 		<Title>Even If
 		</Title>
@@ -117,10 +121,10 @@ Because you don’t deserve her forgiveness.
 And even if you’re going to say later that she was asking for it,
 she wasn’t.
 You were just too self-absorbed to pay attention to her answer.
-				
+
 				</Writing>
-	
-	
+
+
 	<Category>My Favorites</Category>
 		<Title>breathing in morse code
 		</Title>
@@ -135,7 +139,7 @@ of a grapefruit shot with a handgun. I once read
 about an elderly man who used to call up complete strangers
 every day before his death, and talked about things
 like their favorite type of pizza, their never-ending loneliness,
-or the rise and fall of the stock market. He did this 
+or the rise and fall of the stock market. He did this
 for four years straight, and informed the local newspaper
 that the best calls he ever made
 were the ones in which no one spoke.
@@ -150,10 +154,10 @@ again, and leave me three more times
 before the year was over, and all I’d be left with
 was the voicemails I made
 of you breathing down my phone line.
-				
+
 				</Writing>
-	
-	
+
+
 	<Category>Suicide</Category>
 		<Title>a few reasons to stay alive
 		</Title>
@@ -205,8 +209,8 @@ not when you come for it.
 choose the beginning of your life,
 then choose the rest of it.
 				</Writing>
-	
-	
+
+
 	<Category>Self-Harm</Category>
 		<Title>Sewing Lessons
 		</Title>
@@ -234,11 +238,11 @@ wounds closed, and kissed me naked on the bed,
 hard, harder, hardest, as if you wanted me
 to fuck all the sad out of you
 and make you whole again.
-				
+
 				</Writing>
-	
-	
-	
+
+
+
 	<Category>Self-Harm</Category>
 		<Title>to keep yourself alive
 		</Title>
@@ -250,8 +254,8 @@ and the bloodstains on your thighs
 and figured out it takes more than getting hurt
 to keep yourself alive.
 				</Writing>
-	
-	
+
+
 	<Category>Self-Harm</Category>
 		<Title>scars
 		</Title>
@@ -262,19 +266,19 @@ to keep yourself alive.
 but still be just as eager
 to give myself more?
 				</Writing>
-	
-	
-	<Category> 
+
+
+	<Category>
 	</Category>
 		<Title>
 		</Title>
 			<Author>Meggie Royer
 			</Author>
 				<Writing>
-				
+
 				</Writing>
-	
-	
-	
+
+
+
 
 </Poetry>

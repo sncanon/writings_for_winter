@@ -69,3 +69,74 @@ font-size: 18px;
     line-height: 2;
 
 }
+
+/* --------- FAQ DISPLAY---------- */
+
+FAQ {
+	display: block;
+width: 80%;
+	background-color: none;
+	margin: 2%;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 1%;
+	font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+font-size: 18px;
+
+}
+
+Number {
+	font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+font-size: 18px;
+font-weight: bold;
+	width: 100%;
+	padding-right: 15px;
+	}
+
+
+	Question
+	{
+		font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+		font-size: 18px;
+		font-weight: bold;
+	margin-left: 0;
+	}
+
+	Answer
+	{
+		font-family: "Garamond", "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+		font-size: 18px;
+		font-weight: normal;
+
+	}
+
+	em {
+		font-style: italic;
+	}
+
+
+
+	/* unvisited link */
+a:link {
+	    color: #27303e;
+	}
+
+	/* visited link */
+a:visited {
+	    color: #969696;
+	}
+
+	/* mouse over link */
+a:hover {
+	    background-color: #4d2b3a;
+	    padding: 3px;
+	    color: #e1e1e1;
+	    padding: 6px 8px;
+	    text-decoration: none;
+	    border-radius: 10px;
+	}
+
+	/* selected link */
+a:active {
+	    color: #3a1c2e;
+	}
