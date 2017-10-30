@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="../css/xml_writings_stylesheet.css"?>
+
+<!DOCTYPE Poetry [
+<!ELEMENT note (Category,Title,Author,Writing)>
+<!ELEMENT Category (#PCDATA)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Author (#PCDATA)>
+<!ELEMENT Writing (#PCDATA)>
+
+]>
+
+<Poetry>
+
+	<Category> Unrequited Love</Category>
+		<Title>on the awfulness of unrequited love
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing xml:space="preserve">
+				Unrequited love is exhausting, almost physically draining, like teetering on the edge of recovery after being home sick for two weeks. But the problem with unrequited love is that there’s no cure, no chicken soup or bedrest to make you feel better again. The heart is a fickle organ, the most unpredictable in the body, and it wants what it wants for sometimes unknowable reasons. HELLO BREAK!!! &#xD; &#xD; &#xD; &#xD;
+
+<Writing>
+Imagine what it must have been like for Adam and Eve, the first man and woman, just trying out their hearts for the first time. No instruction manual, no step-by-step rules that laid out the foundation and the uses. And if Adam didn’t love Eve, or vice versa, there would be no one else to project that unused love onto, no placebo.
+</Writing>
+
+When you see the one you love with someone else, it’s all you can do not to rip your heart out and throw it on the floor and declare your love to the whole world, to smash every plate in the cupboard or paint the walls with their name. It’s gut-wrenching, like asking for the whole universe and only receiving the stars instead.
+
+And of course, if your love is unrequited, you sincerely believe that this person belongs to you, that they are yours. That you love them quite possibly more than it is possible to love someone. It’s like a Matryoshka doll: you can fit so much feeling inside your own body, again and again, layers upon layers going down, down, into the deepest parts of yourself. If someone were to unpeel you like an onion, they’d find all that unreturned love built up like great yellow reams of fat, insulating your kidneys and lungs, clogging your arteries. You’d never be able to escape it.
+
+Sometimes you lie awake at night in bed and imagine all the things you could have said or done or been, the things that might have changed the course of fate and steered the ship of destiny in your direction for once. But unfortunately, while we have all the maps in the world for faraway countries or oceans or mammoth caves, no one, in the entire course of human history, has ever charted a path for unrequited love and how to find your way out of its forest. The first explorer that does so, and quite possibly the only, would most likely have an entire continent named after them, an entire island, an entire universe. Because the one person who figures out how to escape unrequited love’s grasp is truly a genius.
+
+And sometimes you look at their picture over and over again in your school’s yearbook, flipping the pages but always returning to that one face, the smile you believe is meant for you, the hair parted just so, the smooth curve of their neck where it joins their collarbones.
+
+You’d write their name upon the stars if you could, but for now you’ll just have to settle for jotting it down in your tattered notebook instead.
+
+				</Writing>
+
+	<Category>Prose</Category>
+		<Title>the brokenness of broken people
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				One of the most sad and obvious truths in this world is that some people are broken. They’re the strangers you see on the subway with their heads in their hands, trying to press out the world. They’re the stick-thin girls with only celery for lunch, the businessmen who want nothing more than to have another drink. They’re your mother, your father, your sister, your grandfather, your brother. They’re the aunt who was sexually abused as a child, the uncle with brain cancer who only has months to live. They’re the homeless men and women without a sturdy pair of shoes, who sleep in beat-up Volvos and boxcars because it’s the closest thing they have to a house. You’re going to meet some of these people someday; in all likelihood you already have.
+
+Your parents teach you that you will go to school, fall in love, go to college, then get married and have children, though not necessarily in that exact order. But the part they leave out is that in between all those things you’re going to meet some broken people, fall for them, even. And you won’t know how to fix them; you may try, desperately, but you won’t be able to.
+
+And that’s because broken people can never truly be fixed. You have to stop thinking about it that way: human beings are not appliances. They’re not a leaking faucet or a stove that won’t heat up. They’re not burnt-out lightbulbs or doors swinging off their hinges. You can’t take a hammer and nails to them and make them good as new.
+
+But here’s what you can do-you can help them. Go up to the stick-thin girl and tell her that she may not feel beautiful now, but there are a whole damn lot of other people who believe that she is. Grab that businessman by the sleeve and tell him his pain will not last forever. Tell him that he can never truly drown his sorrows in a drink, then offer to buy him some coffee instead. Give the homeless man a pair of shoes, the homeless woman a new winter coat. Hold your uncle’s hand in the hospital bed when he breathes his final breath. Tell your aunt it wasn’t her fault; tell her that the worst things happen to the best people. If she cries on your shoulder pat her back and stay with her until the tears subside. Remember to say I love you to your mother and father and brother and sister.
+
+And let me tell you something: sorrow and brokenness are two hard motherfuckers to beat. But there’s joy in putting on a pair of boxing gloves and stepping into the ring just to punch the feelings away. Catharsis. You will never feel better than at the exact moment you release all this. Letting go of your feelings has the same kind of grace as the opening of a door, or the way a phoenix can rise again out of the ashes. I’m not telling you that grace is an easy thing to accomplish. It takes small steps.
+
+But every step is worth it. Those broken people you see every day? Their brokenness is a ladder and they have to start climbing it. Rung by rung, hand over hand, until the very top. But don’t haul them up with a pulley; let them do it by themselves. And when they reach the top, hand them a nice cold glass of water and slap them on the back, say, Glad you could make it.
+
+				</Writing>
+
+
+	<Category>Breakups</Category>
+		<Title>for an ex-lover becoming someone else’s
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				According to Tacitus, a senator and historian of the Roman Empire,
+the Great Fire of Rome burned for six days straight.
+Three districts were completely destroyed. After you left, I burned
+for 234 weeks in a row; even when I swam all the way to Canada
+and burrowed under all the lakes there, my flames still didn’t go out.
+By now, her mouth must be like one of those tiny bees, the kind
+that sting almost unnoticeably and leave red welts where the victim
+least expects them. Your white shoulders are probably
+covered in her kisses, I see you calling her name as the sky
+turns to pink ash, the apples on the counter already rotting
+with no one left to cut them up. You know what my mother did
+when I was a child to keep the uneaten fruit fresh?
+She poured lemon juice over it and sealed it in the refrigerator
+for a single week. I don’t know why, but language always fails me
+when I need it most. Well, now you can have the way we fucked
+at midnight with my hands between your legs, you can have
+the repetition of our history together, the important dates,
+the gilded crowns I pressed upon your spine with my tongue.
+Here, you can have your heart back, too: you stole it once
+and I swore I wouldn’t press charges.
+Give it to her instead, for she probably needs it more.
+Soak it in lemon juice, so it won’t rot
+when she takes it in her arms, like I once did.
+
+				</Writing>
+
+
+	<Category>My Favorites</Category>
+		<Title>Even If
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				And even if her whole body looks like a watercolor painting, that doesn’t mean
+you can dip your hands into the palettes of her hips and brush between her legs.
+And even if her smile seems as inviting as a chandelier, don’t try
+hanging yourself from the ceiling of her thighs just to get a glimpse inside.
+And even if her dress is already halfway off, do the math.
+The two letters that make up “No” will never equal the three letters of a “Yes.”
+And even if you’re hungry like a wolf, lust isn’t love,
+So keep your paws and teeth to yourself.
+And even if there’s drinking involved, remember she isn’t drunk on you
+so don’t try to put her further under the influence, especially
+when the influence is you.
+And even if you want to stick your tongue down her throat like a metal pole in winter,
+that doesn’t mean you can’t try getting yourself unpeeled first.
+Thaw your greediness before letting yourself get frozen in the wrong path.
+And even if she doesn’t look like your narrow-minded image of a woman,
+then maybe the magnifying glass you’re using is cracked and dirty
+and raping her certainly won’t turn her into the person you want her to be.
+And even if she’s passed out and no one else is around,
+try “passing” on the opportunity to ruin her life instead.
+And even if you think saying a prayer before breaking down
+the church of her body is going to save you, it won’t.
+Because you don’t deserve her forgiveness.
+And even if you’re going to say later that she was asking for it,
+she wasn’t.
+You were just too self-absorbed to pay attention to her answer.
+
+				</Writing>
+
+
+	<Category>My Favorites</Category>
+		<Title>breathing in morse code
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				Today I memorize your heartbeat line by line.
+You once got a tattoo of the spikes of breath that show up
+on a breathing machine in the hospital, on your forearm
+above the tiny red birthmark that looked like the blood
+of a grapefruit shot with a handgun. I once read
+about an elderly man who used to call up complete strangers
+every day before his death, and talked about things
+like their favorite type of pizza, their never-ending loneliness,
+or the rise and fall of the stock market. He did this
+for four years straight, and informed the local newspaper
+that the best calls he ever made
+were the ones in which no one spoke.
+Just breath on the other end.
+And tonight I remember how I used to measure
+all the space I spent without you in the distance
+between our fingertips, until one day you left me
+for some other woman, and I went to bed
+remembering that you were 450 finger-lengths away.
+I didn’t know yet that you would come back to me
+again, and leave me three more times
+before the year was over, and all I’d be left with
+was the voicemails I made
+of you breathing down my phone line.
+
+				</Writing>
+
+
+	<Category>Suicide</Category>
+		<Title>a few reasons to stay alive
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				people ask why they shouldn’t commit suicide;
+they want a reason
+but they secretly think no reason will be found
+or no reason ever found will suffice.
+well i wish i could tell them,
+choose life.
+choose the first date, the first kiss,
+the first time.
+choose the late nights and cigarettes smoked
+on rooftops,
+the hands held and the good grades and the bad ones
+and the mistakes made and learned from.
+choose the thunderstorms and rainy days,
+the perfect cloudless ones and the dry heat.
+choose the sweat after a run,
+the long conversations, the telephone calls,
+the poems, the love letters scrawled on napkins.
+choose your parents, your brothers, your sisters,
+your friends. your family.
+choose the wedding and the walk down the aisle,
+college and taxes and bills and walks with the dog.
+music and barbecues and good books
+and old films, saying nothing with the lips
+but everything with the eyes.
+choose the smiles and the long nights,
+the wine and getting drunk.
+choose the drives alone,
+the dark parking lots, the coffee in the mornings.
+choose your daughter, your son,
+their first kiss, their first date, their college,
+their wedding. choose your grandchildren.
+choose old age with the one you love,
+the gardens and summer nights, dictionaries
+and blue ink. choose the hospital visits
+and tears and hard times,
+the aches and pains and arthritis.
+choose the yellow walls and comfy chairs.
+choose the love and loss
+and learn from them both,
+and then accept death with open arms
+when it comes for you,
+not when you come for it.
+choose the beginning of your life,
+then choose the rest of it.
+				</Writing>
+
+
+	<Category>Self-Harm</Category>
+		<Title>Sewing Lessons
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				See, the first time you locked the bathroom door your heart was so heavy
+it took me twenty tries and a crowbar to lift it, and even then
+it left bruises on my palms so big an elephant would pale in comparison.
+When you were in the bathtub, practicing your drowning skills,
+the cool porcelain skin resting against your milk-white thighs,
+I caught a glimpse of your right wrist, the steady ladder of red
+climbing up the inside, a rung, two rungs, three, fourteen.
+Remember when we read about Rome burning, and how some soldiers
+held their arms out like sleepwalkers and let the fire come to them,
+like lovers? So I took you into the bedroom, sat you down
+on the bed, on top of the covers, still dripping with water,
+dark hair plastered to the nape of your neck like a Rorschach ink blot,
+and brought out the needle and thread.
+It went in slow and deep, a cigarette in the mouth
+of a dying Roman woman, back and forth, back and forth,
+holding your wrist so tight in my hand the circulation shut itself off
+like a leaky faucet. When I was done you were all stitched up,
+wounds closed, and kissed me naked on the bed,
+hard, harder, hardest, as if you wanted me
+to fuck all the sad out of you
+and make you whole again.
+
+				</Writing>
+
+
+
+	<Category>Self-Harm</Category>
+		<Title>to keep yourself alive
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				we counted all the bruises on your neck
+and the bloodstains on your thighs
+and figured out it takes more than getting hurt
+to keep yourself alive.
+				</Writing>
+
+
+	<Category>Self-Harm</Category>
+		<Title>scars
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+				how the hell can i have so many scars
+but still be just as eager
+to give myself more?
+				</Writing>
+
+
+	<Category>
+	</Category>
+		<Title>
+		</Title>
+			<Author>Meggie Royer
+			</Author>
+				<Writing>
+
+				</Writing>
+
+
+
+
+</Poetry>
