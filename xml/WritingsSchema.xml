@@ -3,6 +3,7 @@
 
 <!DOCTYPE Poetry [
 <!ELEMENT note (Category,Title,Author,Writing)>
+<!ELEMENT Poetry (#PCDATA)>
 <!ELEMENT Category (#PCDATA)>
 <!ELEMENT Title (#PCDATA)>
 <!ELEMENT Author (#PCDATA)>
@@ -12,12 +13,12 @@
 
 <Poetry>
 
-	<Category> Unrequited Love</Category>
+	<Category>Unrequited Love</Category>
 		<Title>on the awfulness of unrequited love
 		</Title>
 			<Author>Meggie Royer
 			</Author>
-				<Writing xml:space="preserve">
+				<Writing>
 				Unrequited love is exhausting, almost physically draining, like teetering on the edge of recovery after being home sick for two weeks. But the problem with unrequited love is that there’s no cure, no chicken soup or bedrest to make you feel better again. The heart is a fickle organ, the most unpredictable in the body, and it wants what it wants for sometimes unknowable reasons. HELLO BREAK!!! &#xD; &#xD; &#xD; &#xD;
 
 <Writing>
