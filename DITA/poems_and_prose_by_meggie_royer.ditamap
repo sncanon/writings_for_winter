@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE bookmap PUBLIC "-//OASIS//DTD DITA BookMap//EN" "bookmap.dtd">
+<bookmap>
+    <booktitle>
+        <mainbooktitle>Poems and Prose by Meggie Royer</mainbooktitle>
+    </booktitle>
+    <chapter navtitle="Miscarriages">
+        <topicref href="la_moiti__de_moi_est_absente.dita"/>
+        <topicref href="baby_teeth_0.dita"/>
+        <topicref href="a_priest_walks_into_a_bar_0.dita"/>
+    </chapter>
+    <chapter navtitle="Hoarding">
+        <topicref href="the_hoarder_.dita"/>
+    </chapter>
+    <chapter navtitle="Unrequited Love">
+        <topicref href="on_the_awfulness_of_unrequited_love.dita"/>
+        <topicref href="how_to_get_over_him.dita"/>
+        <topicref href="when_his_love_for_me_was_unrequited.dita"/>
+        <topicref href="the_greeks_believed_in_apricots_as_the_cure_for_unrequited_love.dita"/>
+    </chapter>
+    <chapter navtitle="Alcoholism">
+        <topicref
+            href="we_named_our_unborn_daughter_moonshine_after_her_father_s_favorite_habit.dita"/>
+    </chapter>
+    <chapter navtitle="Long-Distance Relationships">
+        <topicref href="poem_for_a_soon_to_be_long_distance_lover.dita"/>
+        <topicref href="long_distance_lover.dita"/>
+    </chapter>
+    <chapter navtitle="Gender/Sexuality">
+        <topicref href="you_can_buy_nail_polish__but_not_tolerance.dita"/>
+        <topicref href="the_man_who_came_out_when_his_girlfriend_broke_up_with_him.dita"/>
+        <topicref href="handwritten_apology_note_from_god_to_a_closeted_gay_man.dita"/>
+        <topicref href="girl_practice.dita"/>
+    </chapter>
+    <chapter navtitle="Breakups">
+        <topicref href="it_s_not_me__it_s_you_.dita"/>
+        <topicref href="the_breakup_anthem.dita"/>
+        <topicref href="addressed_to_the_woman_who_slept_with_my_boyfriend.dita"/>
+        <topicref href="poem_for_the_day_i_cut_my_hair_in_memory_of_you_leaving.dita"/>
+        <topicref href="for_an_ex_lover_becoming_someone_else_s_.dita"/>
+        <topicref href="all_these_other_men__but_they_are_not_you.dita"/>
+        <topicref href="after_the_third_lover_that_walked_out_on_me.dita"/>
+    </chapter>
+    <chapter navtitle="Anxiety Disorder/Panic Attacks">
+        <topicref href="the_planetarium_of_anxiety.dita"/>
+        <topicref href="how_to_let_the_anxiety_attack_pass.dita"/>
+        <topicref href="the_reasons_why_i_don_t_drink_coffee.dita"/>
+        <topicref
+            href="dear_stranger_sorry__i_wanted_to_talk_to_you__but_i_have_social_anxiety.dita"/>
+    </chapter>
+    <chapter navtitle="Abortion">
+        <topicref href="abortion.dita"/>
+    </chapter>
+    <chapter navtitle="My Favorites">
+        <topicref href="the_summer_i_shrank_and_you_expanded%20-%20Copy.dita"/>
+        <topicref href="a_brief_biography_of_my_eighteen_years.dita"/>
+        <topicref href="the_hoarder_%20-%20Copy.dita"/>
+        <topicref href="breathing_in_morse_code.dita"/>
+        <topicref href="poem_for_the_day_i_cut_my_hair_in_memory_of_you_leaving%20-%20Copy.dita"/>
+        <topicref href="it_s_not_me__it_s_you_%20-%20Copy.dita"/>
+        <topicref href="just_friends_.dita"/>
+        <topicref href="not_so_much_falling_in_love_as_leaping_into_it.dita"/>
+        <topicref href="the_atheist___the_believer.dita"/>
+        <topicref href="losing_touch.dita"/>
+        <topicref href="time_machine.dita"/>
+    </chapter>
+    <chapter navtitle="Cancer">
+        <topicref href="cancer.dita"/>
+        <topicref href="cancer_statistics.dita"/>
+    </chapter>
+    <chapter navtitle="Sex">
+        <topicref href="a_small_fact.dita"/>
+        <topicref href="the_first_time.dita"/>
+        <topicref href="sleeping_with_someone.dita"/>
+        <topicref href="let_me_tell_you_something_about_sex..dita"/>
+        <topicref href="perhaps.dita"/>
+    </chapter>
+    <chapter navtitle="Depression">
+        <topicref href="10_common_misconceptions_about_depression.dita"/>
+        <topicref href="the_handy_dandy_guidebook_for_loving_someone_with_depression.dita"/>
+        <topicref href="how_to_find_a_new_normal_in_the_middle_of_depression.dita"/>
+        <topicref href="i_m_in_a_relationship_with_depression_and_it_s_complicated.dita"/>
+    </chapter>
+    <chapter navtitle="Suicide">
+        <topicref href="when_a_single_year_is_not_enough.dita"/>
+        <topicref href="the_night_i_talked_my_lover_out_of_killing_himself.dita"/>
+        <topicref href="letter_to_a_lover_who_committed_suicide.dita"/>
+        <topicref href="so_you_want_to_kill_yourself.dita"/>
+        <topicref href="why_you_are_not_going_to_kill_yourself_tonight__butterfly_style.dita"/>
+        <topicref href="letter_to_my_future_daughter_when_she_wants_to_kill_herself.dita"/>
+        <topicref href="you_are_not_alone_in_the_way_you_think_you_are.dita"/>
+        <topicref href="memoirs_of_a_suicide.dita"/>
+        <topicref href="the_shortest_suicide_note_in_the_world.dita"/>
+        <topicref href="this_poem_is_not_a_suicide_hotline_but_it_s_the_best_i_could_do.dita"/>
+        <topicref href="there_are_no_beautiful_suicides..dita"/>
+        <topicref href="a_decision_to_live.dita"/>
+        <topicref href="is_that_cold_enough_.dita"/>
+        <topicref href="here_s_what_you_tell_someone_who_wants_to_commit_suicide.dita"/>
+        <topicref href="virgin_trees.dita"/>
+        <topicref href="a_few_reasons_to_stay_alive.dita"/>
+    </chapter>
+    <chapter navtitle="Eating Disorders">
+        <topicref href="the_summer_i_shrank_and_you_expanded.dita"/>
+        <topicref href="the_eating_disorder_recovery_poem.dita"/>
+        <topicref href="the_elephant_in_the_room.dita"/>
+        <topicref href="dear_ana__an_open_letter_to_anorexia_.dita"/>
+        <topicref href="disorder.dita"/>
+        <topicref href="like_clockwork.dita"/>
+        <topicref href="bones.dita"/>
+    </chapter>
+    <chapter navtitle="Rape">
+        <topicref href="what_the_men_said_to_me_before_it_happened.dita"/>
+        <topicref href="not_a_forgiveness_letter__but_not_hate_mail_either.dita"/>
+        <topicref href="this_is_for_you_and_for_everyone_else..dita"/>
+        <topicref href="stranger_still.dita"/>
+        <topicref href="shame.dita"/>
+    </chapter>
+    <chapter navtitle="Self-Harm">
+        <topicref href="sewing_lessons.dita"/>
+        <topicref href="language_is_the_antithesis_of_feeling.dita"/>
+        <topicref href="jetlagged.dita"/>
+        <topicref href="scars.dita"/>
+        <topicref href="for_razorblade_lovers.dita"/>
+        <topicref href="to_keep_yourself_alive.dita"/>
+        <topicref href="scars_2.dita"/>
+    </chapter>
+    <chapter navtitle="Shyness/Loneliness">
+        <topicref href="on_being_alone_but_not_being_lonely.dita"/>
+        <topicref href="on_not_being_able_to_say__i_love_you__0.dita"/>
+        <topicref href="how_to_skip_the_party_and_stay_home_instead.dita"/>
+        <topicref href="on_loneliness_and_the_powers_of_observation.dita"/>
+        <topicref href="on_being_considered_shy.dita"/>
+    </chapter>
+    <backmatter/>
+</bookmap>
