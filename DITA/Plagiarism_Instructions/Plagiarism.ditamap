@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>How to Prevent, Detect, and Handle Plagiarism</title>
+    <topichead navtitle="How to Prevent, Detect, and Handle Plagiarism">
+        <topicref href="what_is_plagiarism_.dita"/>
+        <topicref href="prevent.dita"/>
+        <topicref href="detect.dita"/>
+        <topicref href="handle.dita"/>
+        <navref mapref="detect.dita"/>
+        <navref mapref="handle.dita"/>
+        <navref mapref="prevent.dita"/>
+        <navref mapref="what_is_plagiarism_.dita"/>
+    </topichead>
+</map>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="handle">
+    <title>Handle: Steps and Resources</title>
+    <body>
+        <p>There are several steps you can take when handling plagerized work.<ol
+                id="ol_usw_rfz_xbb">
+                <li>When you find a result, contact the ‘author’ of the plagiarized piece first. Ask
+                    them to remove it or to provide credit to you.</li>
+                <li>If they decline, contact the owner of the site the ‘author’ has posted your work
+                    on, and ask them to remove it. <ul id="ul_el3_khz_xbb">
+                        <li>Provide them with links of both your original work and the thief’s
+                            work</li>
+                        <li>Send date stamps to show that your piece was written or posted
+                            first.</li>
+                        <li>Include screenshots for proof of plagiarism, as well.</li>
+                    </ul></li>
+                <li>If the owner refuses to remove the piece, go to the following website: <xref
+                        href="https://www.whoishostingthis.com/" format="html" scope="external"
+                        >www.whoishostingthis.com</xref>.<ul id="ul_rff_4hz_xbb">
+                        <li>Type in the name of the site your stolen work is posted on. This will
+                            reveal what company or site is hosting the site your work is on.</li>
+                    </ul></li>
+                <li>Once the hosting site pops up, email or contact their abuse department with the
+                    same information (screenshots, urls, links, etc.) you originally provided the
+                    first site owner. Ask the hosting service to remove the piece. <ul
+                        id="ul_ijp_rhz_xbb">
+                        <li>Make sure to provide the hosting service with a formal DMCA
+                            notification. You can easily generate one <xref
+                                href="https://www.whoishostingthis.com/resources/dmca/"
+                                format="html" scope="external">here</xref> and it only takes about 2
+                            minutes.</li>
+                    </ul></li>
+                <li>This last step should almost always work. If it doesn’t, you have every right to
+                    threaten legal action unless the hosting site complies with your request to have
+                    your stolen work removed.</li>
+            </ol></p>
+    </body>
+</topic>
